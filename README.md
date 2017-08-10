@@ -1,3 +1,7 @@
+## Related post: [An Alternative Splash Screen for Ionic 2+](https://www.ionicrun.com/an-alternative-splash-screen-for-ionic-2/)
+
+The repository that implemented the alternative splash screen can be found here: [https://github.com/ionicrun/splash-screen-alternative/](https://github.com/ionicrun/splash-screen-alternative/)
+
 ## Setup
 
 __Important:__ if want to run the App on the __iOS simulator__, it is best to add the iOS platform in a different way or alternatively update the `ios-sim` package. There currently is a small issue with `cordova-ios@4.4.0`, which could cause an error like `Cannot read property 'replace' of undefined`, when executing the `ionic cordova run ios` command.
